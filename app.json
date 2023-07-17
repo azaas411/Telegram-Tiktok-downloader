@@ -1,7 +1,7 @@
 {
   "name": "TeleTok",
   "description": "Telegram bot to download TikTok videos ",
-  "repository": "https://github.com/captaincolonelfox/TeleTok",
+  "repository": "https://github.com/azaas411/Telegram-Tiktok-downloader/tree/main",
   "logo": "https://raw.githubusercontent.com/captaincolonelfox/TeleTok/dev/img/logo.jpg",
   "keywords": ["telegram", "bot", "tiktok"],
   "env": {
